@@ -1,6 +1,6 @@
 ## How to use
 
-1. Right click on the LockFolder.bat
+1. Right click on the LockFolder.bat and click edit
 
 2. Change PASSWORD-HERE to your password aswell as FOLDER-NAME-HERE to a name of your choice
 
